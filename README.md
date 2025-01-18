@@ -1,5 +1,5 @@
 ## What
-This is a static website using Hugo Blox. 
+This is a static website using Hugo Blox. Served at https://www.gillangeospatial.com
 
 ## Make Changes Locally
 You get edit this website by cloning it to your local machine
