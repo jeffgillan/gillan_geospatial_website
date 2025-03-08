@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "2rem"
+  spacing: "1rem"
 
 sections:
   - block: markdown
@@ -37,21 +37,6 @@ sections:
             </p>
           </div>
         </div>
-  - block: cta-image-paragraph
-    id: aerial_mapping
-    content:
-      items:
-        - title: Aerial Mapping & Inspection
-          text: 
-          # Upload image to `assets/media/` and reference the filename here
-          image: carousel4.gif
-        - title: Data Analytics & Machine Learning
-          text: 
-          # Upload image to `assets/media/` and reference the filename here
-          image: geospatial_desktop_AI.png
-    design:
-      # Section background color (CSS class)
-      css_class: 
-
+  
 
 ---
