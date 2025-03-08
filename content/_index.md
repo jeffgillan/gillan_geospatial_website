@@ -21,14 +21,18 @@ sections:
       title: 
       subtitle: 
       text: |
-        <div style="display: flex; gap: 80px; justify-content: center;">
+        <div style="display: flex; gap: 20px; justify-content: center;">
           <div style="text-align: center;">
-            <img src="/media/carousel4.gif" alt="Second Image" width="300">
-            <p style="margin-top: 5px;">Aerial Mapping</p>
+            <img src="/media/carousel4.gif" alt="Second Image" width="450">
+            <p style="margin-top: 5px; font-style: italic;">
+              Aerial Mapping
+            </p>
           </div>
           <div style="text-align: center;">
-            <img src="/media/geospatial_desktop_AI.png" alt="Third Image" width="300">
-            <p style="margin-top: 5px;">Data Analytics & ML</p>
+            <img src="/media/geospatial_desktop_AI.png" alt="Third Image" width="450">
+            <p style="margin-top: 5px; font-style: italic;">
+              Data Analytics & ML
+            </p>
           </div>
         </div>
   - block: cta-image-paragraph
