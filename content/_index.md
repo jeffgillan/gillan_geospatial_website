@@ -105,7 +105,7 @@ sections:
           button:
             text: Get Started
             url: https://hugoblox.com/templates/
-        - title: Large Community
+        - title: Drone Mapping & Data Analytics
           text: Join our large community on Discord - ask questions and get live responses
           feature_icon: bolt
           features:
@@ -113,10 +113,7 @@ sections:
             - "3,000+ users on Discord"
             - "Share your site and get feedback"
           # Upload image to `assets/media/` and reference the filename here
-          image: coffee.jpg
-          button:
-            text: Join Discord
-            url: https://discord.gg/z8wNYzb
+          image: gillan_geospatial_logo.png
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -134,16 +131,5 @@ sections:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
-  - block: cta-card
-    content:
-      title: Build your future-proof website
-      text: As easy as 1, 2, 3!
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+
 ---
