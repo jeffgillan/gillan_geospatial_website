@@ -15,19 +15,22 @@ sections:
       subtitle: 
       text: |
         <img src="/media/gillan_geospatial_logo.png" alt="First Image" width="300">
-        <p>Some description for the first image.</p>
-
+  - block: markdown
+    id: section-1
+    content:
+      title: 
+      subtitle: 
+      text: |
         <div style="display: flex; gap: 20px;">
           <div>
             <img src="/media/carousel4.gif" alt="Second Image" width="300">
-            <p>Another description.</p>
+            <p>Aerial Mapping.</p>
           </div>
           <div>
             <img src="/media/geospatial_desktop_AI.png" alt="Third Image" width="300">
-            <p>Final description.</p>
+            <p>Data Analytics & ML.</p>
           </div>
         </div>
-
   - block: cta-image-paragraph
     id: aerial_mapping
     content:
