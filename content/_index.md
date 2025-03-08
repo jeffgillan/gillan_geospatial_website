@@ -19,11 +19,11 @@ sections:
     id: solutions
     content:
       items:
-        - title: Aerial Mapping 
+        - title: Aerial Mapping & Inspection
           text: 
           # Upload image to `assets/media/` and reference the filename here
-          image: geospatial_desktop_AI.png
-        - title: Geospatial Data Analytics
+          image: carousel4.gif
+        - title: Data Analytics & Machine Learning
           text: 
           # Upload image to `assets/media/` and reference the filename here
           image: geospatial_desktop_AI.png
