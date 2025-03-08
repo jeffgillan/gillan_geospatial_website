@@ -39,8 +39,8 @@ header:
       filename: "gillan_geospatial_logo.png"
     button:
       enable: true
-      text: "Howdy"
-      url: "https://hugoblox.com/templates/"
+      text: "Github"
+      url: "https://github.com/jeffgillan"
     show_search: true
     show_theme_chooser: true
 
