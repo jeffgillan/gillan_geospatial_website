@@ -14,16 +14,9 @@ sections:
       title: 
       subtitle: 
       text: |
-        <img src="/media/gillan_geospatial_logo.png" alt="First Image" width="700">
+        <img src="/media/gillan_geospatial_logo.png" alt="First Image" width="600">
   - block: markdown
-    id: section-1
-    content:
-      title: 
-      subtitle: 
-      text: |
-sections:
-  - block: markdown
-    id: section-1
+    id: section-2
     content:
       title: 
       subtitle: 
@@ -38,7 +31,6 @@ sections:
             <p style="margin-top: 5px;">Data Analytics & ML</p>
           </div>
         </div>
-
   - block: cta-image-paragraph
     id: aerial_mapping
     content:
