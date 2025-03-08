@@ -19,11 +19,11 @@ sections:
 
         <div style="display: flex; gap: 20px;">
           <div>
-            <img src="/media/second_image.png" alt="Second Image" width="300">
+            <img src="/media/carousel4.gif" alt="Second Image" width="300">
             <p>Another description.</p>
           </div>
           <div>
-            <img src="/media/third_image.png" alt="Third Image" width="300">
+            <img src="/media/geospatial_desktop_AI.png" alt="Third Image" width="300">
             <p>Final description.</p>
           </div>
         </div>
