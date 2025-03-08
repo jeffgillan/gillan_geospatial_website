@@ -39,7 +39,7 @@ header:
       filename: "gillan_geospatial_logo.png"
     button:
       enable: true
-      text: "Get Started"
+      text: "Howdy"
       url: "https://hugoblox.com/templates/"
     show_search: true
     show_theme_chooser: true
