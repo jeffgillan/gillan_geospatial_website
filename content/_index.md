@@ -15,6 +15,18 @@ sections:
       subtitle: 
       text: |
         <img src="/media/gillan_geospatial_logo.png" alt="First Image" width="600">
+        <p style="text-align: center; margin-top: 5px; font-style: italic;">
+        </p>
+
+        <img src="/media/carousel4.gif" alt="Second Image" width="500">
+        <p style="text-align: center; margin-top: 5px; font-style: italic;">
+          Aerial Mapping
+        </p>
+
+        <img src="/media/geospatial_desktop_AI.png" alt="Third Image" width="500">
+        <p style="text-align: center; margin-top: 5px; font-style: italic;">
+          Data Analytics & ML
+        </p>
   - block: markdown
     id: section-2
     content:
