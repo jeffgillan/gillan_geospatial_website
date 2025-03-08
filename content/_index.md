@@ -13,7 +13,7 @@ sections:
     content:
       title: Section 1
       subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: <img src="/assets/media/gillan_geospatial_logo.png.png" width=600>
   - block: hero
     content:
       title: Gillan Geospatial
