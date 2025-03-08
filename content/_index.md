@@ -27,17 +27,14 @@ sections:
             - 
             - 
           # Upload image to `assets/media/` and reference the filename here
-          image: build-website.png
-          button:
-            text: Get Started
-            url: https://hugoblox.com/templates/
-        - title: Drone Mapping & Data Analytics
-          text: Join our large community on Discord - ask questions and get live responses
+          image: geospatial_desktop_AI.png
+        - title: Drone Mapping
+          text: 
           feature_icon: bolt
           features:
-            - "Dedicated support channel"
-            - "3,000+ users on Discord"
-            - "Share your site and get feedback"
+            - 
+            - 
+            - 
           # Upload image to `assets/media/` and reference the filename here
           image: gillan_geospatial_logo.png
     design:
