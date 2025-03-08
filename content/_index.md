@@ -13,10 +13,23 @@ sections:
     content:
       title: 
       subtitle: 
-      text: |
-        ![Alt text](/media/gillan_geospatial_logo.png)
+    text: |
+        <img src="/media/gillan_geospatial_logo.png" alt="First Image" width="300">
+        <p>Some description for the first image.</p>
+
+        <div style="display: flex; gap: 20px;">
+          <div>
+            <img src="/media/second_image.png" alt="Second Image" width="300">
+            <p>Another description.</p>
+          </div>
+          <div>
+            <img src="/media/third_image.png" alt="Third Image" width="300">
+            <p>Final description.</p>
+          </div>
+        </div>
+
   - block: cta-image-paragraph
-    id: solutions
+    id: aerial_mapping
     content:
       items:
         - title: Aerial Mapping & Inspection
