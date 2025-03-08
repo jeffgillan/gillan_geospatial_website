@@ -19,14 +19,14 @@ sections:
     id: solutions
     content:
       items:
-        - title: Geospatial Data Analytics 
+        - title: Aerial Mapping 
           text: 
           # Upload image to `assets/media/` and reference the filename here
           image: geospatial_desktop_AI.png
-        - title: Drone Mapping
+        - title: Geospatial Data Analytics
           text: 
           # Upload image to `assets/media/` and reference the filename here
-          image: Drone_summit_gillan.png
+          image: geospatial_desktop_AI.png
     design:
       # Section background color (CSS class)
       css_class: 
