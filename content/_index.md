@@ -21,25 +21,15 @@ sections:
       items:
         - title: Geospatial Data Analytics 
           text: 
-          feature_icon: check
-          features:
-            - 
-            - 
-            - 
           # Upload image to `assets/media/` and reference the filename here
           image: geospatial_desktop_AI.png
         - title: Drone Mapping
           text: 
-          feature_icon: bolt
-          features:
-            - 
-            - 
-            - 
           # Upload image to `assets/media/` and reference the filename here
           image: Drone_summit_gillan.png
     design:
       # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      css_class: 
 
 
 ---
