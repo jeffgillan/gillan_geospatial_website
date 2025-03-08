@@ -13,7 +13,7 @@ sections:
     content:
       title: Howdy Howdy
       subtitle: A subtitle
-      text: <img src="../assets/media/gillan_geospatial_logo.png" width=600>
+      text: <img title="a title" alt="Alt text" src="../assets/media/gillan_geospatial_logo.png">
   - block: hero
     content:
       title: Gillan Geospatial
