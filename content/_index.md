@@ -13,7 +13,7 @@ sections:
     content:
       title: Section 1
       subtitle: A subtitle
-      text: <img src="/assets/media/gillan_geospatial_logo.png.png" width=600>
+      text: <img src="/assets/media/gillan_geospatial_logo.png" width=600>
   - block: hero
     content:
       title: Gillan Geospatial
