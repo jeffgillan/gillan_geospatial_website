@@ -36,7 +36,7 @@ sections:
             - 
             - 
           # Upload image to `assets/media/` and reference the filename here
-          image: gillan_geospatial_logo.png
+          image: Drone_summit_gillan.png
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
