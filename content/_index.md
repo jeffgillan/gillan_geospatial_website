@@ -15,7 +15,6 @@ sections:
       subtitle: A subtitle
       text: |
         ![Alt text](/media/gillan_geospatial_logo.png)
-
   - block: hero
     content:
       title: Gillan Geospatial
