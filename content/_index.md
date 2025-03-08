@@ -11,7 +11,7 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: Section 1
+      title: Howdy Howdy
       subtitle: A subtitle
       text: <img src="../assets/media/gillan_geospatial_logo.png" width=600>
   - block: hero
