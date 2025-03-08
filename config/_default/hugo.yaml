@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Gillan Geospatial LLC # Website name
-baseURL: 'https://gillangeospatial.com/' # Website URL
+baseURL: 'https://www.gillangeospatial.com/' # Website URL
 
 ############################
 ## PAGE OPTIONS
