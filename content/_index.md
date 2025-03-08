@@ -13,7 +13,7 @@ sections:
     content:
       title: 
       subtitle: 
-    text: |
+      text: |
         <img src="/media/gillan_geospatial_logo.png" alt="First Image" width="300">
         <p>Some description for the first image.</p>
 
