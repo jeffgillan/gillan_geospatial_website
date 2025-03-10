@@ -10,11 +10,11 @@ main:
     url: /about/
     weight: 2
   - name: Aerial Mapping
-    url: /#solutions
+    url: /aerial_mapping/
     weight: 3
   - name: Data Analytics
-    url: blog/
+    url: /data_analytics/
     weight: 4
-  - name: Training
-    url: blog/
+  - name: Education & Training
+    url: /training/
     weight: 5
