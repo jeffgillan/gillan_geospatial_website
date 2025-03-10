@@ -6,7 +6,11 @@ This is a static website using Hugo Blox. Served at https://www.gillangeospatial
 
 Edit home page `content/_index.md`
 
-Edit header menu `
+Edit header menu `config/_default/menus.yaml` and `config/_default/params.yaml`
+
+Edit footer `config/_default/params.yaml`
+
+
 
 
 
