@@ -5,16 +5,16 @@
 main:
   - name: Home
     url: /#top
-    weight: 10
+    weight: 1
   - name: About
     url: /about/
-    weight: 20
-  - name: Solutions
+    weight: 2
+  - name: Aerial Mapping
     url: /#solutions
-    weight: 30
-  - name: Resources
-    weight: 40
-    hasChildren: true
-  - parent: Resources
-    name: Blog
+    weight: 3
+  - name: Data Analytics
     url: blog/
+    weight: 4
+  - name: Training
+    url: blog/
+    weight: 5
