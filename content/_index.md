@@ -26,7 +26,7 @@ sections:
         <div style="display: flex; gap: 20px; justify-content: center;">
           <div style="text-align: center;">
             <img src="/media/carousel4.gif" alt="Second Image" width="650">
-            <p style="margin-top: 0.5px; font-style: italic;">
+            <p style="text-align: center; margin-top: 5px; margin-bottom: 5px; font-style: italic;">
               Aerial Mapping
             </p>
           </div>
