@@ -36,7 +36,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "gillan_geospatial_logo.png"
+      filename: "gg_logo_grey.png"
     button:
       enable: true
       text: "Github"
