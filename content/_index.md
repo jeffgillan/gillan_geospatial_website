@@ -14,7 +14,7 @@ sections:
       title: 
       subtitle: 
       text: |
-        <img src="/media/gillan_geospatial_logo.png" alt="First Image" width="600">
+        <img src="/media/gg_logo.png" alt="First Image" width="500">
         <p style="text-align: center; margin-top: 2px; font-style: italic;">
         </p>
   - block: markdown
