@@ -23,19 +23,14 @@ sections:
       title: 
       subtitle: 
       text: |
-        <div style="display: flex; gap: 20px; justify-content: center;">
-          <div style="text-align: center;">
-            <img src="/media/carousel4.gif" alt="Second Image" width="650">
-            <p style="text-align: center; margin-top: 5px; margin-bottom: 5px; font-style: italic;">
-              Aerial Mapping
-            </p>
-          </div>
-          <div style="text-align: center;">
-            <img src="/media/geospatial_desktop_AI.png" alt="Third Image" width="650">
-            <p style="margin-top: 0.5px; font-style: italic;">
-              Data Analytics & ML
-            </p>
-          </div>
+       <div style="display: flex; align-items: center; gap: 10px; justify-content: center;">
+          <img src="/media/carousel4.gif" alt="Second Image" width="400">
+          <p style="font-style: italic;">Aerial Mapping.</p>
+        </div>
+
+        <div style="display: flex; align-items: center; gap: 10px; justify-content: center; margin-top: 10px;">
+          <img src="/media/geospatial_desktop_AI.png" alt="Third Image" width="400">
+          <p style="font-style: italic;">Data Analytics & ML.</p>
         </div>
   
 
