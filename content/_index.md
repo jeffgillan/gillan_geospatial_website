@@ -14,7 +14,7 @@ sections:
       title: 
       subtitle: 
       text: |
-        <img src="/media/gg_logo_grey.png" alt="First Image" width="500">
+        <img src="/media/gg_logo_grey.png" alt="First Image" width="400">
         <p style="text-align: center; margin-top: 2px; font-style: italic;">
         </p>
   - block: markdown
