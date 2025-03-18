@@ -20,18 +20,17 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "Aerial Mapping"
+        - statistic: ""
           description: |
-            <img src="/media/carousel4.gif" alt="Second Image" width="600">
+            <img src="/media/carousel4.gif" alt="Second Image" width="300">
             Aerial Mapping
-        - statistic: "Data Analytics"
+        - statistic: ""
           description: |
-            GitHub stars  
-            since 2016
-        - statistic: "Education & Training"
+            <img src="/media/geospatial_desktop_AI.png" alt="Third Image" width="300">
+            Data Analytics
+        - statistic: ""
           description: |
-            Discord community  
-            for support
+            Education & Training
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
