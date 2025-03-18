@@ -22,8 +22,8 @@ sections:
       items:
         - statistic: "Aerial Mapping"
           description: |
-            Websites built  
-            with Hugo Blox
+            <img src="/media/carousel4.gif" alt="Second Image" width="600">
+            Aerial Mapping
         - statistic: "Data Analytics"
           description: |
             GitHub stars  
