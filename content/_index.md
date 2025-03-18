@@ -14,7 +14,7 @@ sections:
       title: 
       subtitle: 
       text: |
-        <img src="/media/gg_logo_grey3.png" alt="First Image" width="700">
+        <img src="/media/gg_logo_grey3.png" alt="First Image" width="600">
         <p style="text-align: center; margin-top: 2px; font-style: italic;">
         </p>
   - block: stats
@@ -22,11 +22,11 @@ sections:
       items:
         - statistic: ""
           description: |
-            <img src="/media/carousel4.gif" alt="Second Image" width="300">
+            <img src="/media/carousel4.gif" alt="Second Image" width="300" style="display: block; margin: auto;">
             Aerial Mapping
         - statistic: ""
           description: |
-            <img src="/media/geospatial_desktop_AI.png" alt="Third Image" width="300">
+            <img src="/media/geospatial_desktop_AI.png" alt="Third Image" width="300" style="display: block; margin: auto;">
             Data Analytics
         - statistic: ""
           description: |
