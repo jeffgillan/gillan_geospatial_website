@@ -20,15 +20,15 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "1M+"
+        - statistic: "Aerial Mapping"
           description: |
             Websites built  
             with Hugo Blox
-        - statistic: "10k+"
+        - statistic: "Data Analytics"
           description: |
             GitHub stars  
             since 2016
-        - statistic: "3k+"
+        - statistic: "Education & Training"
           description: |
             Discord community  
             for support
