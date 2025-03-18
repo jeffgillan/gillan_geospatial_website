@@ -17,6 +17,27 @@ sections:
         <img src="/media/gg_logo_grey3.png" alt="First Image" width="700">
         <p style="text-align: center; margin-top: 2px; font-style: italic;">
         </p>
+  - block: stats
+    content:
+      items:
+        - statistic: "1M+"
+          description: |
+            Websites built  
+            with Hugo Blox
+        - statistic: "10k+"
+          description: |
+            GitHub stars  
+            since 2016
+        - statistic: "3k+"
+          description: |
+            Discord community  
+            for support
+    design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
+      # Reduce spacing
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
 #  - block: markdown
 #    id: section-2
 #    content:
