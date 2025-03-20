@@ -35,10 +35,8 @@ header:
     fixed_to_top: true
     logo:
       text: "Gillan Geospatial"
-      logo_width: 500  # Increase this value
-      logo_height: 500  # Increase this value
       # Logo filename in `assets/media/` folder
-      filename: "tree_logo_larger.png" 
+      filename: "geospatial_desktop_AI.png" 
     button:
       enable: true
       text: "Github"
