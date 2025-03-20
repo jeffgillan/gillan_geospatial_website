@@ -34,7 +34,7 @@ header:
     align: "center"
     fixed_to_top: true
     logo:
-      text: "Gillan Geospatial"
+      text: ""
       # Logo filename in `assets/media/` folder
       filename: "text_logo.svg" 
     button:
