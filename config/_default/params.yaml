@@ -36,7 +36,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "gg_logo_transparent2.png" 
+      filename: "tree_logo2_grey2.png" 
     button:
       enable: true
       text: "Github"
