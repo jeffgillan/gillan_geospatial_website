@@ -36,7 +36,7 @@ header:
     logo:
       text: "Gillan Geospatial"
       # Logo filename in `assets/media/` folder
-      filename: "geospatial_desktop_AI.png" 
+      filename: "tree_logo_small.png" 
     button:
       enable: true
       text: "Github"
