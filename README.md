@@ -1,5 +1,5 @@
 ## What
-This is a static website using Hugo Blox. Served at https://www.gillangeospatial.com
+This is a static website using Hugo Blox. Served at https://www.gillangeospatial.com. Domain is managed through Squarespace. 
 
 
 ## Editing Tips
@@ -26,8 +26,10 @@ For example, I wanted to customize the header navbar.
 
 2. Within the `params.yaml` file, change `blox:navbar` to `blox:my-navbar`.
    
+Some advice on customization is [here](https://docs.hugoblox.com/reference/extend/)
 
-
+<br>
+<br>
 
 ## Make Changes Locally
 You get edit this website by cloning it to your local machine
