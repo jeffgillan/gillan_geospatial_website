@@ -31,9 +31,9 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: carousel4.gif
           button:
-            text: Get Started
-            url: https://hugoblox.com/templates/
-        - title: Large Community
+            text: Learn More
+            url: "/aerial_mapping/"
+        - title: Data Analytics
           text: Join our large community on Discord - ask questions and get live responses
           feature_icon: bolt
           features:
@@ -43,8 +43,8 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: geospatial_desktop_AI.png
           button:
-            text: Join Discord
-            url: https://discord.gg/z8wNYzb
+            text: Go Deeper
+            url: "/data_analytics/"
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
