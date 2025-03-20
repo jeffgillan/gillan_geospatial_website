@@ -11,7 +11,7 @@
             {{ if eq $logoExt `.svg` }}
               {{- $logo.Content | safeHTML -}}
             {{else}}
-              {{ $logo_img := ($logo.Process "Resize x300 webp") }}
+              {{ $logo_img := ($logo.Process "Resize x100 webp") }}
               <img
                 fetchpriority="high"
                 decoding="async"
