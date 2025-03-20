@@ -14,7 +14,7 @@ sections:
       title: 
       subtitle: 
       text: |
-        <img src="/media/gg_logo_grey3.png" alt="First Image" width="600">
+        <img src="/media/gg_logo_grey4.png" alt="First Image" width="500">
         <p style="text-align: center; margin-top: 2px; font-style: italic;">
         </p>
   - block: stats
