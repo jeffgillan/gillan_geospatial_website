@@ -36,7 +36,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "text_logo.png" 
+      filename: "navbar_logo.png" 
     button:
       enable: true
       text: "Github"
