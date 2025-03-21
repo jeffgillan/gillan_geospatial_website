@@ -8,15 +8,15 @@ design:
   spacing: "1rem"
 
 sections:
-  - block: markdown
-    id: section-1
-    content:
-      title: 
-      subtitle: 
-      text: |
-        <img src="/media/gg_logo_grey4.png" alt="First Image" width="500">
-        <p style="text-align: center; margin-top: 2px; font-style: italic;">
-        </p>
+#  - block: markdown
+#    id: section-1
+#    content:
+#      title: 
+#      subtitle: 
+#      text: |
+#        <img src="/media/gg_logo_grey4.png" alt="First Image" width="500">
+#        <p style="text-align: center; margin-top: 2px; font-style: italic;">
+#        </p>
   - block: cta-image-paragraph
     id: solutions
     content:
