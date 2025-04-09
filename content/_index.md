@@ -9,18 +9,14 @@ design:
 
 sections:
   - block: markdown
-    id: section-1
-    content:
-      title: 
-      subtitle: 
-      text: |
-        <img src="/media/gg_logo_grey4.png" alt="First Image" width="500">
-        <p style="text-align: center; margin-top: 2px; font-style: italic;">
-        </p>
-        # Fire Risk Assessment in the Wildland-Urban Interface
-        <a href="https://promethean-gift.github.io/map" target="">
-        <img src="/media/7_springs_fire.png" alt="blah" width="600" height="500">
-        </a> 
+#    id: section-1
+#    content:
+#      title: 
+#      subtitle: 
+#      text: |
+#        <img src="/media/gg_logo_grey4.png" alt="First Image" width="500">
+#        <p style="text-align: center; margin-top: 2px; font-style: italic;">
+#        </p> 
   - block: cta-image-paragraph
     id: solutions
     content:
