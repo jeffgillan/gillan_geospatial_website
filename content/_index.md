@@ -25,7 +25,7 @@ sections:
     id: solutions
     content:
       items:
-        - title: Aerial Mapping
+        - title: Vegetation Mapping
           text: As easy as 1, 2, 3!
           feature_icon: check
           features:
@@ -37,7 +37,7 @@ sections:
           button:
             text: Learn More
             url: "/aerial_mapping/"
-        - title: Data Analytics
+        - title: Fire Risk Assessment in the Wildland-Urban Iterface
           text: Join our large community on Discord - ask questions and get live responses
           feature_icon: bolt
           features:
@@ -45,7 +45,7 @@ sections:
             - "3,000+ users on Discord"
             - "Share your site and get feedback"
           # Upload image to `assets/media/` and reference the filename here
-          image: geospatial_desktop_AI.png
+          image: 7_springs_fire.png
           button:
             text: Go Deeper
             url: "/data_analytics/"
