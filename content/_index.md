@@ -34,14 +34,14 @@ sections:
             text: Learn More
             url: "/aerial_mapping/"
         - title: Precise Topographic Surveying
-          text: Workshops in Geospatial Data Science
-          feature_icon: check
-          features:
-            - "Machine Learning Workflows"
-            - "Foundational Data Science Skills"
-            - "Cloud Native Geospatial Tools"
+#          text: Workshops in Geospatial Data Science
+#          feature_icon: check
+#          features:
+#            - "Machine Learning Workflows"
+#            - "Foundational Data Science Skills"
+#            - "Cloud Native Geospatial Tools"
           # Upload image to `assets/media/` and reference the filename here
-          image: geospatial_desktop_AI.png
+          image: topo_survey.png
           button:
             text: Start Learning
             url: "/training/"   
