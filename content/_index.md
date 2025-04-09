@@ -19,7 +19,7 @@ sections:
         </p>
         # Fire Risk Assessment in the Wildland-Urban Interface
         <a href="https://promethean-gift.github.io/map" target="">
-        <img src="../images/7_springs.png" alt="blah" width="600" height="500">
+        <img src="/media/7_springs_fire.png" alt="blah" width="600" height="500">
         </a> 
   - block: cta-image-paragraph
     id: solutions
