@@ -10,7 +10,7 @@ Editing Hugo Blox websites generally occur in yaml config files. It allows you t
 
 Edit home page `content/_index.md`
 
-Edit other pages like 'about' `content/about`
+Edit other pages like 'about' `content/about`. To display images in pages like 'about', you need to place images in `static/media`. In the markdown file, you should use relative links as `/media/example_image.png`
 
 Edit header menu `config/_default/menus.yaml` and `config/_default/params.yaml`
 
