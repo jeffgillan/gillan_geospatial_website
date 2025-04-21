@@ -55,8 +55,8 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: 7_springs_fire.png
           button:
-            text: Go Deeper
-            url: "/data_analytics/" 
+            text: Interactive Map
+            url: "https://promethean-gift.github.io/map" 
         - title: Education & Training
           text: Workshops in Geospatial Data Science
           feature_icon: check
