@@ -7,7 +7,7 @@ type: page  # This ensures it is treated as a normal page
 Gillan Geospatial llc is small-business owned and operated by Jeffrey Gillan, Ph.D., and based in Tucson, Arizona. 
 
 <p align="center">
-  <img src="media/gillan_srer_bees.png" alt="Description" width="300">
+  <img src="/images/gillan_srer_bees.png" alt="Description" width="300">
 </p>
 
 
