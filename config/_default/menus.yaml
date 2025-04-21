@@ -9,11 +9,11 @@ main:
   - name: About
     url: /about/
     weight: 2
-  - name: Aerial Mapping
-    url: /aerial_mapping/
+  - name: AI Mapping
+    url: /ai_mapping/
     weight: 3
-  - name: Data Analytics
-    url: /data_analytics/
+  - name: Topo Suveying
+    url: /topo_surveying/
     weight: 4
   - name: Education & Training
     url: /training/
