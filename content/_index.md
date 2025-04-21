@@ -32,7 +32,7 @@ sections:
           image: aerial_mapping_logo.png
           button:
             text: Learn More
-            url: "/aerial_mapping/"
+            url: "/ai_mapping/"
         - title: Precise Topographic Surveying
 #          text: Workshops in Geospatial Data Science
 #          feature_icon: check
@@ -43,9 +43,9 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: topo_survey.png
           button:
-            text: Start Learning
-            url: "/training/"   
-        - title: Fire Risk Assessment in the Wildland-Urban Iterface
+            text: Learn More
+            url: "/topo_surveying/"   
+        - title: Fire Risk Assessment in the Wildland-Urban Interface
 #          text: Join our large community on Discord - ask questions and get live responses
 #          feature_icon: bolt
 #          features:
