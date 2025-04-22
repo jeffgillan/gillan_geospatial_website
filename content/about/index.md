@@ -17,9 +17,11 @@ Gillan Geospatial llc is small-business owned and operated by Jeffrey Gillan, Ph
   <strong>jeff@gillangeospatial.com</strong><br>
   <strong>(530)339-5975</strong><br>
   <strong>Tucson, Arizona</strong>
-  <a href="https://www.linkedin.com/in/jeffrey-kent-gillan/" target="_blank">
-    <img src="/media/linkedin-logo.png" alt="LinkedIn" width="40">
-  </a>
+  <div>
+    <a href="https://www.linkedin.com/in/jeffrey-kent-gillan/" target="_blank">
+      <img src="/media/linkedin-logo.png" alt="LinkedIn" width="40" style="display:inline-block;">
+    </a>
+  </div>  
 </div>
 
 
