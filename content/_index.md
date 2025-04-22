@@ -33,7 +33,7 @@ sections:
           button:
             text: Learn More
             url: "/ai_mapping/"
-        - title: Precise Topographic Surveying
+        - title: 3D Topographic Surveying
 #          text: Workshops in Geospatial Data Science
 #          feature_icon: check
 #          features:
