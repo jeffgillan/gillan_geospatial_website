@@ -18,3 +18,7 @@ share: false
 <p align="center">
   <img src="/media/segment.png" alt="Description" width="550">
 </p>
+
+<p align="center">
+  <img src="/media/ml_tasks.png" alt="Description" width="700">
+</p>
