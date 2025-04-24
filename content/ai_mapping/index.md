@@ -25,3 +25,7 @@ reading_time: false
   <img src="/media/person_detect.png" alt="Description" width="700">
 </p>
 
+
+<p align="center">
+  <img src="/media/veg_classes.png" alt="Description" width="700">
+</p>
