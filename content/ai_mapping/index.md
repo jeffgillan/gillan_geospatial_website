@@ -14,3 +14,7 @@ share: false
 <p align="center">
   <img src="/media/yuma_lettuce_detect.png" alt="Description" width="450">
 </p>
+
+<p align="center">
+  <img src="/media/segment.png" alt="Description" width="550">
+</p>
