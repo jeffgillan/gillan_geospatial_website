@@ -16,9 +16,14 @@ share: false
 </p>
 
 <p align="center">
-  <img src="/media/segment.png" alt="Description" width="550">
+  <img src="/media/segment.png" alt="Description" width="700">
 </p>
 
 <p align="center">
   <img src="/media/ml_tasks.png" alt="Description" width="700">
 </p>
+
+<p align="center">
+  <img src="/media/person_detect.png" alt="Description" width="700">
+</p>
+
