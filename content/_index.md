@@ -43,11 +43,10 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: topo_survey.png
           button:
-            text: Learn More
-            url: "/topo_surveying/"
-          button: 
-            text: Interactive Point Cloud (Santa Cruz River)
-            url: "https://ps2.d2s.org/sharepotree?file_id=d6056396-4bde-48ae-a745-f5f131f57405"
+           - text: Learn More
+             url: "/topo_surveying/"
+           - text: Interactive Point Cloud (Santa Cruz River)
+             url: "https://ps2.d2s.org/sharepotree?file_id=d6056396-4bde-48ae-a745-f5f131f57405"
         - title: Fire Risk Assessment in the Wildland-Urban Interface
 #          text: Join our large community on Discord - ask questions and get live responses
 #          feature_icon: bolt
