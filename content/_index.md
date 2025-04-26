@@ -43,7 +43,9 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: topo_survey.png
           text: | 
+            [Interactive DEM](https://ps2.d2s.org/sl/rfSnmhATd5c)
             [Interactive Point Cloud (Santa Cruz River)](https://ps2.d2s.org/sharepotree?file_id=d6056396-4bde-48ae-a745-f5f131f57405)
+            [Interactive Point Cloud (Sonoran Desert)](https://viewer.copc.io?state=381c861efb8fc737530a0ab8b2273785b47e0827fef4ac03b0ae5a21ee0ad5f2)
           button:
            text: Learn More
            url: "/topo_surveying/"
