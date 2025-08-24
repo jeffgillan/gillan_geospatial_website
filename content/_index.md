@@ -74,7 +74,13 @@ sections:
           image: geospatial_desktop_AI.png
           button:
             text: Start Learning
-            url: "https://github.com/ua-datalab/geospatial_2025"    
+            url: "https://github.com/ua-datalab/geospatial_2025"   
+        - title: Education & Training
+          text: |
+            Workshops in Geospatial Data Science  
+            {{< youtube 22VJxyTQX_o >}}
+          
+
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
