@@ -21,7 +21,7 @@ sections:
     id: solutions
     content:
       items:
-        - title: AI Feature Mapping & Detection
+        - title: Precision Drone Mapping for Natural Resource & Civil Applications
 #          text: As easy as 1, 2, 3!
 #          feature_icon: check
 #          features:
