@@ -9,12 +9,12 @@ main:
   - name: About
     url: /about/
     weight: 2
-  - name: AI Mapping
-    url: /ai_mapping/
-    weight: 3
-  - name: 3D Topo Surveying
-    url: /topo_surveying/
-    weight: 4
-  - name: Education & Training
-    url: /training/
-    weight: 5
+#  - name: AI Mapping
+#    url: /ai_mapping/
+#    weight: 3
+#  - name: 3D Topo Surveying
+#    url: /topo_surveying/
+#    weight: 4
+#  - name: Education & Training
+#    url: /training/
+#    weight: 5
