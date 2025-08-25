@@ -79,7 +79,7 @@ sections:
           text: |
             Workshops in Geospatial Data Science  
             {{< youtube 22VJxyTQX_o >}}
-          
+          image: geospatial_desktop_AI.png
 
     design:
       # Section background color (CSS class)
