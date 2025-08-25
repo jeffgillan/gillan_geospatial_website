@@ -76,16 +76,16 @@ sections:
             text: Start Learning
             url: "https://github.com/ua-datalab/geospatial_2025"   
         - title: Promoting an Open Ecosystem for Drone Imagery
-        # Instead of 'image:', inject raw HTML
-        html: |
-          <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
-            <iframe src="https://www.youtube.com/embed/22VJxyTQX_o"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-              style="position:absolute; top:0; left:0; width:100%; height:100%;">
-            </iframe>
-          </div>
+          # Instead of 'image:', inject raw HTML
+          html: |
+            <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
+              <iframe src="https://www.youtube.com/embed/22VJxyTQX_o"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+                style="position:absolute; top:0; left:0; width:100%; height:100%;">
+              </iframe>
+            </div>
 
     design:
       # Section background color (CSS class)
