@@ -79,27 +79,7 @@ sections:
           # Section background color (CSS class)
           css_class: "bg-gray-100 dark:bg-gray-900"
             
-  - block: markdown
-    design:
-      css_class: "bg-gray-100 dark:bg-gray-900 p-6 rounded-xl shadow-md"
-    content:
-      text: |
-        <h3>Education & Training</h3>
-        <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin-bottom:1rem;">
-          <iframe src="https://www.youtube.com/embed/22VJxyTQX_o"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
-            style="position:absolute; top:0; left:0; width:100%; height:100%;">
-          </iframe>
-        </div>
-        <p>Workshops in Geospatial Data Science</p>
-        <ul>
-          <li>Machine Learning Workflows</li>
-          <li>Foundational Data Science Skills</li>
-          <li>Cloud Native Geospatial Tools</li>
-        </ul>
-        <a class="btn btn-primary" href="/training/">Start Learning</a>
+  
 
 
 
