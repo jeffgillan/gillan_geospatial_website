@@ -75,9 +75,9 @@ sections:
           button:
             text: Start Learning
             url: "https://github.com/ua-datalab/geospatial_2025"   
-        design:
-          # Section background color (CSS class)
-          css_class: "bg-gray-100 dark:bg-gray-900"
+      design:
+         # Section background color (CSS class)
+        css_class: "bg-gray-100 dark:bg-gray-900"
             
   
 
