@@ -1,1 +1,44 @@
+{{/* layouts/partials/blocks/cta-image-paragraph.html */}}
+{{ $block := . }}
+<section id="{{ with $block.id }}{{ . }}{{ end }}" class="relative {{ $block.design.css_class }}">
+  <div class="container">
+
+    <div class="grid gap-8 md:grid-cols-2">
+      {{ range $block.content.items }}
+      <div class="flex flex-col md:flex-row items-center gap-6">
+
+        <div class="w-full md:w-1/2">
+          {{ if .video }}
+            <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
+              <iframe src="https://www.youtube.com/embed/{{ .video }}"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+                style="position:absolute; top:0; left:0; width:100%; height:100%;">
+              </iframe>
+            </div>
+          {{ else if .image }}
+            <img src="{{ .image | relURL }}" alt="{{ .title }}">
+          {{ end }}
+        </div>
+
+        <div class="w-full md:w-1/2">
+          <h3>{{ .title }}</h3>
+          {{ with .text }}<p>{{ . | markdownify }}</p>{{ end }}
+          {{ with .features }}
+            <ul>
+              {{ range . }}<li>{{ . }}</li>{{ end }}
+            </ul>
+          {{ end }}
+          {{ with .button }}
+            <a class="btn btn-primary mt-3" href="{{ .url }}">{{ .text }}</a>
+          {{ end }}
+        </div>
+
+      </div>
+      {{ end }}
+    </div>
+
+  </div>
+</section>
 
