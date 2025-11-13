@@ -24,7 +24,7 @@ Gillan Geospatial llc is small-business owned and operated by Jeffrey Gillan, Ph
     <a href="https://www.linkedin.com/in/jeffrey-kent-gillan/" target="_blank">
       <img src="/media/linkedin-logo.png" alt="LinkedIn" width="40" style="display:inline-block; margin:0 5px;">
     </a>
-    <a href="/uploads/cv.pdf" target="_blank" title="Download CV">
+    <a href="/uploads/gillan_resumeDec2025.pdf" target="_blank" title="Download CV">
       <i class="fas fa-file-pdf" style="font-size:30px; color:#0066cc; margin:0 5px;"></i>
     </a>
   </div>  
